@@ -1,0 +1,10 @@
+password
+123456
+qwerty
+letmein
+admin
+football
+monkey
+purple123
+network2026
+cybersecurity
